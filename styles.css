@@ -24,3 +24,11 @@
 .why, .who, .where{
   padding: 0 3rem;
 }
+
+p {
+  line-height: 1.8;
+	color: #616569;
+	letter-spacing: .03em;
+	font-size: 20px;
+	text-align: left;
+}
