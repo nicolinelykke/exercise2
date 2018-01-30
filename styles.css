@@ -2,4 +2,33 @@
   font-weight: bold;
   color: #ffffff;
 }
-poopface
+
+.about > div > div > img{
+  padding-top: 1.25em;
+  height: 12.5em;
+  width: 12.5em;
+}
+
+#aboutsection{
+  padding-top: 15rem;
+  padding-bottom: 10rem;
+  height: 1000px;
+}
+
+.about{
+  text-align: center;
+  margin: auto;
+
+}
+
+.why, .who, .where{
+  padding: 0 3rem;
+}
+
+p {
+  line-height: 1.8;
+	color: #616569;
+	letter-spacing: .03em;
+	font-size: 20px;
+	text-align: left;
+}
